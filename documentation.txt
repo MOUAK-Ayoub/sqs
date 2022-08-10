@@ -1,0 +1,2 @@
+
+aws credentials must be on $HOME/.aws/config
